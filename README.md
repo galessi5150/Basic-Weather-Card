@@ -26,7 +26,7 @@ Steps
 4. Install dependencies: npm install
 5. Start the development server: npm start
 6. Open development server: npm run dev
-    -This will give you a lonke likr this: http://localhost:3000 paste it into your browser
+    -This will give you a link like this: http://localhost:3000 paste it into your browser
 
 🌐 Technologies Used
 
@@ -46,10 +46,10 @@ Use it however you would like
 
 Future Plans
 
-This was a one off project. I have no future plans for it but if you want some ideas for further customization you could by
+This was a one-off project. I have no plans for it but, if you want some ideas for further customization you could by
 
   -Adding a feature to clear the search history.
   
   -Including more weather data like humidity and wind speed.
   
-  -Implementing a dark mode for better user experience.
+  -Implementing a dark mode for a better user experience.
