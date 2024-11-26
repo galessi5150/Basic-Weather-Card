@@ -64,7 +64,7 @@ function Card() {
                     cards.reverse().map((card, index) => (
                         <div key={index} className="Card">
                             <h1>City: <br/>{card.city}</h1>
-                            <h2>Tempature: <br/> {card.temp} °F</h2>
+                            <h2>Feels Like: <br/> {card.temp} °F</h2>
                             <h3>Weather: <br/>{card.weather} </h3>
                             <p>Description: <br/>{card.description}</p>
                         </div>
