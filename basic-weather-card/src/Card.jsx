@@ -11,7 +11,6 @@ function Card() {
         try {
             setLoading(true);
 
-            await new Promise((resolve) => setTimeout(resolve, 50));
 
             const response = await fetch(url);
             if (!response.ok) throw new Error("City not found");
